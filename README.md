@@ -7,6 +7,44 @@
 - 🥅 Goals: Do leetcode and get a handsome job.
 - ⚡ Fun fact:Coding+Movies=Best Combination.
 
+
+### SKILLS :page_with_curl:
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/C-Advance-blue" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/C%2B%2B-Advance-blue" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/Java-Advance-blue" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/Python-Advance-blue" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/SQL-Advance-blue" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/Postgresql-Advance-blue" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/Streamlit-Advance-blue" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/HTML-Intermediate-orange" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/CSS-Intermediate-orange" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/Javascript-Intermediate-orange" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/Arduino%20IDE-Intermediate-orange" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/Raspberry%20Pi-Intermediate-orange" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/AWS-Beginner-yellow" /></a>
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/Postman-Beginner-yellow" /></a>
+        
+ 
+### Statistics :chart_with_upwards_trend:      
+[![Tamanna’s github stats](https://github-readme-stats.vercel.app/api?username=manektamanna&show_icons=true&theme=highcontrast)](https://github.com/manektamanna)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manektamanna&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/manektamanna)
+        
+    
+### COURSES :mortar_board:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -34,10 +72,13 @@
 
 
 
-https://img.shields.io/badge/Dynamo-100%25-orange
 
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/Dynamo-100%25-orange" /></a>
+
+
+
+
+        
+ 
 
 
 
