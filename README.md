@@ -1,5 +1,4 @@
 ![Alt Text](https://user-images.githubusercontent.com/85683392/147534224-b1fb5ee4-3260-4c15-b76c-3eb09202c982.gif)
-### Hi there 👋
 
 <h2 align="center">
 I'm a NYU Student :woman:, Coder :computer:, and Engineer 🎨!
@@ -12,8 +11,9 @@ I'm a NYU Student :woman:, Coder :computer:, and Engineer 🎨!
 - 🥅 Goals: Do leetcode and get a handsome job.
 - ⚡ Fun fact:Coding+Movies=Best Combination.
 
-
-### SKILLS :page_with_curl:
+<h2 align="center">
+Skills :page_with_curl:
+</h2>
 
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/badge/C-Advance-blue" /></a>
@@ -44,21 +44,29 @@ I'm a NYU Student :woman:, Coder :computer:, and Engineer 🎨!
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/badge/Postman-Beginner-yellow" /></a>
         
- 
-### Statistics :chart_with_upwards_trend:     
+<h2 align="center"> 
+Statistics :chart_with_upwards_trend:
+</h2>
 
 [![Tamanna’s github stats](https://github-readme-stats.vercel.app/api?username=manektamanna&show_icons=true&theme=highcontrast)](https://github.com/manektamanna)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manektamanna&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/manektamanna)
 
-### 🤝 Connect with me:
+<h2 align="center">
+Connect with me 🤝 
+</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/tm0407" align="center"><img align="center" src="https://raw.githubusercontent.com/manektamanna/manektamanna/main/images/linkedin.svg" alt="manektamanna | LinkedIn" width="50px"/></a>
+<a href="https://www.instagram.com/tamannamanek/" align="center"><img align="center" src="https://raw.githubusercontent.com/manektamanna/manektamanna/main/images/instagram.svg" alt="manektamanna | Instagram" width="50px"/></a>
+</p>
 
-<a href="https://www.linkedin.com/in/tm0407"><img align="left" src="https://raw.githubusercontent.com/manektamanna/manektamanna/main/images/linkedin.svg" alt="manektamanna | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+
+<br>
 <br>
         
-    
-### COURSES :mortar_board:
+<h2 align="center">   
+Course Work :mortar_board:
+<h2 align="center">
+ 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
