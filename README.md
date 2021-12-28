@@ -4,17 +4,18 @@
 I'm a NYU Student :woman:, Coder :computer:, and Engineer 🎨!
 </h2> 
 
-- 🔭 I’m currently pursuing my Masters in Computer Science at New York University.
-- 🌱 I’m currently doing courses Cloud Computing,Software Engineering,Database Management System,Data Science etc.
-- 👯 I’m looking for Summer Internship in 2022 as Software Engineer Intern/Data Scientist Intern.
+- :watch: I’m currently pursuing my Masters in Computer Science at New York University.
+- :books: I’m currently doing courses Cloud Computing,Software Engineering,Database Management System,Data Science etc.
+- :telescope: I’m looking for Summer Internship in 2022 as Software Engineer Intern/Data Scientist Intern.
 - 📚 I did my Bachelors of Technology in Computer Science and Engineering
-- 🥅 Goals: Do leetcode and get a handsome job.
-- ⚡ Fun fact:Coding+Movies=Best Combination.
+- :pushpin: Goals: Do leetcode and get a handsome job.
+- :sunglasses: Interesting fact:Coding+Movies=Best Combination.
 
 <h2 align="center">
 Skills :page_with_curl:
 </h2>
 
+<p align="center">
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/badge/C-Advance-blue" /></a>
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
@@ -43,6 +44,7 @@ Skills :page_with_curl:
         <img src="https://img.shields.io/badge/AWS-Beginner-yellow" /></a>
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/badge/Postman-Beginner-yellow" /></a>
+</p>
         
 <h2 align="center"> 
 Statistics :chart_with_upwards_trend:
@@ -51,6 +53,7 @@ Statistics :chart_with_upwards_trend:
 [![Tamanna’s github stats](https://github-readme-stats.vercel.app/api?username=manektamanna&show_icons=true&theme=highcontrast)](https://github.com/manektamanna)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manektamanna&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/manektamanna)
 
+        
 <h2 align="center">
 Connect with me 🤝 
 </h2>
@@ -62,6 +65,16 @@ Connect with me 🤝
 
 <br>
 <br>
+
+<h2 align="center">   
+Courses :mortar_board:
+<h2 align="center">
+
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0078d7.svg?style=for-the-badge&logo=cloud-computing&logoColor=white)
+![Database Management System](https://img.shields.io/badge/Database%20Management%20System-0078d7.svg?style=for-the-badge&logo=database-management-system&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-0078d7.svg?style=for-the-badge&logo=data-science&logoColor=white)
+![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-0078d7.svg?style=for-the-badge&logo=object-oriented-programming&logoColor=white)
+![Internet Of Things](https://img.shields.io/badge/Internet%20Of%20Things-0078d7.svg?style=for-the-badge&logo=internet-of-things&logoColor=black)
         
 <h2 align="center">   
 Course Work :mortar_board:
