@@ -1,5 +1,10 @@
 ![Alt Text](https://user-images.githubusercontent.com/85683392/147534224-b1fb5ee4-3260-4c15-b76c-3eb09202c982.gif)
 ### Hi there 👋
+
+<h2 align="center">
+I'm a NYU Student :woman:, Coder :computer:, and Engineer 🎨!
+</h2> 
+
 - 🔭 I’m currently pursuing my Masters in Computer Science at New York University.
 - 🌱 I’m currently doing courses Cloud Computing,Software Engineering,Database Management System,Data Science etc.
 - 👯 I’m looking for Summer Internship in 2022 as Software Engineer Intern/Data Scientist Intern.
@@ -9,6 +14,7 @@
 
 
 ### SKILLS :page_with_curl:
+
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/badge/C-Advance-blue" /></a>
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
@@ -39,9 +45,16 @@
         <img src="https://img.shields.io/badge/Postman-Beginner-yellow" /></a>
         
  
-### Statistics :chart_with_upwards_trend:      
+### Statistics :chart_with_upwards_trend:     
+
 [![Tamanna’s github stats](https://github-readme-stats.vercel.app/api?username=manektamanna&show_icons=true&theme=highcontrast)](https://github.com/manektamanna)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manektamanna&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/manektamanna)
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/tm0407"><img align="left" src="https://raw.githubusercontent.com/manektamanna/manektamanna/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
         
     
 ### COURSES :mortar_board:
