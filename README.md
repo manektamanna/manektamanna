@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/85683392/147530745-79bf5e6a-a76c-4e36-b167-746c602070fb.jpg)
+![Alt Text](https://user-images.githubusercontent.com/85683392/147533637-441b38e1-80d6-41a4-9fdd-3272180a742a.gif)
 ### Hi there 👋
 - 🔭 I’m currently pursuing my Masters in Computer Science at New York University.
 - 🌱 I’m currently doing courses Cloud Computing,Software Engineering,Database Management System,Data Science etc.
