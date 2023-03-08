@@ -6,7 +6,7 @@ I'm a NYU Student :woman:, Coder :computer:, and Engineer 🎨!
 
 - :watch: I’m currently pursuing my Masters in Computer Science at New York University.
 - :books: I’m currently doing courses Cloud Computing,Software Engineering,Database Management System,Data Science etc.
-- :telescope: I’m looking for Summer Internship in 2022 as Software Engineer Intern/Data Scientist Intern.
+- :telescope: I’m actively seeking SDE/SWE full time opportunities starting May 2023.
 - 📚 I did my Bachelors of Technology in Computer Science and Engineering
 - :pushpin: Goals: Do leetcode and get a handsome job.
 - :sunglasses: Interesting fact:Coding+Movies=Best Combination.
