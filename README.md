@@ -4,11 +4,13 @@
 I'm a NYU Student :woman:, Coder :computer:, and Engineer 🎨!
 </h2> 
 
-📚 Computer Science Graduate student @ NYU
-💻 Ex-Cloud Engineering Intern @ Transamerica
-🌱 I’m currently working on building backend applications and managing DevOps practices and cloud infrastructure for efficient and scalable application deployment.
-🧑‍💻 I’m looking for SDE/DevOps/Cloud Engineering full time opportunities starting May 2023
-🥅 2023 Goals: Contribute to Open Source projects
+### About Me:
+
+📚 Computer Science Graduate student @ NYU <br>
+💻 Ex-Cloud Engineering Intern @ Transamerica <br>
+🌱 I’m currently working on building backend applications and managing DevOps practices and cloud infrastructure for efficient and scalable application deployment <br>
+🧑‍💻 I’m looking for SDE/DevOps/Cloud Engineering full time opportunities starting May 2023 <br>
+🥅 2023 Goals: Contribute to Open Source projects <br>
 
 <h2 align="center">
 Skills :page_with_curl:
