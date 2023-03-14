@@ -1,5 +1,5 @@
 <h2 align="center">
-I'm a NYU Student, Coder, and Engineer!
+I'm a Student, Coder, and Tech enthusiast!
 </h2> 
 
 ### About Me:
