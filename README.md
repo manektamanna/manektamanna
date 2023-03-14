@@ -4,12 +4,11 @@
 I'm a NYU Student :woman:, Coder :computer:, and Engineer 🎨!
 </h2> 
 
-- :watch: I’m currently pursuing my Masters in Computer Science at New York University.
-- :books: I’m currently doing courses Cloud Computing,Software Engineering,Database Management System,Data Science etc.
-- :telescope: I’m actively seeking SDE/SWE full time opportunities starting May 2023.
-- 📚 I did my Bachelors of Technology in Computer Science and Engineering
-- :pushpin: Goals: Do leetcode and get a handsome job.
-- :sunglasses: Interesting fact:Coding+Movies=Best Combination.
+📚 Computer Science Graduate student @ NYU
+💻 Ex-Cloud Engineering Intern @ Transamerica
+🌱 I’m currently working on building backend applications and managing DevOps practices and cloud infrastructure for efficient and scalable application deployment.
+🧑‍💻 I’m looking for SDE/DevOps/Cloud Engineering full time opportunities starting May 2023
+🥅 2023 Goals: Contribute to Open Source projects
 
 <h2 align="center">
 Skills :page_with_curl:
