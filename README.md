@@ -2,6 +2,10 @@
 I'm a Student, Coder, and Tech enthusiast!
 </h2> 
 
+<p align="center"> 
+	<img src="https://gifdb.com/images/file/coding-girl-animation-fe7t4gejurmtof8v.gif" width="250" height="150">
+
+
 ### About Me:
 
 📚 Computer Science Graduate student @ NYU <br>
