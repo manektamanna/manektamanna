@@ -1,7 +1,5 @@
-![Alt Text](https://user-images.githubusercontent.com/85683392/147534224-b1fb5ee4-3260-4c15-b76c-3eb09202c982.gif)
-
 <h2 align="center">
-I'm a NYU Student :woman:, Coder :computer:, and Engineer 🎨!
+I'm a NYU Student, Coder, and Engineer!
 </h2> 
 
 ### About Me:
@@ -12,75 +10,16 @@ I'm a NYU Student :woman:, Coder :computer:, and Engineer 🎨!
 🧑‍💻 I’m looking for SDE/DevOps/Cloud Engineering full time opportunities starting May 2023 <br>
 🥅 2023 Goals: Contribute to Open Source projects <br>
 
-<h2 align="center">
+
+<h3 align="center">Connect with me 🤝</h3>
+<p align="center"> 
+	<a href="mailto:tm3734@nyu.edu"><img width="45px" src="https://img.shields.io/badge/-sailikhithk?style=social&logo=Gmail&logoColor=red" alt="Tamanna Manek"/></a> &nbsp &nbsp
+	<a href="https://www.linkedin.com/in/tm0407"><img width="45px" src="https://img.shields.io/badge/--blue?style=social&logo=Linkedin&logoColor=blue" alt="Tamanna Manek" /> </a>
+
+<h3 align="center">
 Skills :page_with_curl:
-</h2>
+</h3>
 
-<p align="center">
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/C-Advance-blue" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/C%2B%2B-Advance-blue" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/Java-Advance-blue" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/Python-Advance-blue" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/SQL-Advance-blue" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/Postgresql-Advance-blue" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/Streamlit-Advance-blue" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/HTML-Intermediate-orange" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/CSS-Intermediate-orange" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/Javascript-Intermediate-orange" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/Arduino%20IDE-Intermediate-orange" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/Raspberry%20Pi-Intermediate-orange" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/AWS-Beginner-yellow" /></a>
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/Postman-Beginner-yellow" /></a>
-</p>
-        
-<h2 align="center"> 
-Statistics :chart_with_upwards_trend:
-</h2>
-
-[![Tamanna’s github stats](https://github-readme-stats.vercel.app/api?username=manektamanna&show_icons=true&theme=highcontrast)](https://github.com/manektamanna)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manektamanna&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/manektamanna)
-
-        
-<h2 align="center">
-Connect with me 🤝 
-</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/tm0407" align="center"><img align="center" src="https://raw.githubusercontent.com/manektamanna/manektamanna/main/images/linkedin.svg" alt="manektamanna | LinkedIn" width="50px"/></a>
-<a href="https://www.instagram.com/tamannamanek/" align="center"><img align="center" src="https://raw.githubusercontent.com/manektamanna/manektamanna/main/images/instagram.svg" alt="manektamanna | Instagram" width="50px"/></a>
-</p>
-
-
-<br>
-<br>
-
-<h2 align="center">   
-Courses :mortar_board:
-<h2 align="center">
-
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0078d7.svg?style=for-the-badge&logo=cloud-computing&logoColor=white)
-![Database Management System](https://img.shields.io/badge/Database%20Management%20System-0078d7.svg?style=for-the-badge&logo=database-management-system&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-0078d7.svg?style=for-the-badge&logo=data-science&logoColor=white)
-![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-0078d7.svg?style=for-the-badge&logo=object-oriented-programming&logoColor=white)
-![Internet Of Things](https://img.shields.io/badge/Internet%20Of%20Things-0078d7.svg?style=for-the-badge&logo=internet-of-things&logoColor=black)
-        
-<h2 align="center">   
-Course Work :mortar_board:
-<h2 align="center">
- 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -107,15 +46,22 @@ Course Work :mortar_board:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-
-
-
-
-
-
         
- 
-
-
+<h3 align="center"> 
+Statistics :chart_with_upwards_trend:
+</h3>    
+</p>
+<p align="center">
+    <img
+        height="180em"
+	 width="400em"
+        src="https://github-readme-stats.vercel.app/api?username=manektamanna&show_icons=true&hide_border=true&theme=tokyonight"
+    />
+    <img
+        height="180em"
+	width="340em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=manektamanna&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
+    />
+</p>
 
 
